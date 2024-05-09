@@ -3,6 +3,11 @@
 import pygame
 from pygame.locals import *
 
+#box colour
+grey_outline = (128,128,128)
+gey_fill = (170,170,170)
+highlight = (237, 237, 237)
+
 pygame.init()
 largeur = 400
 hauteur = 500
